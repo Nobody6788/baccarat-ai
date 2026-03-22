@@ -1,0 +1,5 @@
+{
+  "name": "Baccarat AI Predictor",
+  "description": "An AI-powered Baccarat prediction bot that analyzes bead map history to predict the next outcome with a confidence level.",
+  "requestFramePermissions": []
+}
